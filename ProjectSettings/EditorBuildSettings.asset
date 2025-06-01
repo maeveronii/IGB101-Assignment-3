@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/IGB101 Assignment 3 Oliver Meiklejohn.unity
     guid: 44b682b55b8dc5546bdc493f4a171f07
+  - enabled: 1
+    path: Assets/Scenes/IGB101 Assignment 3 Jordan Carmelo.unity
+    guid: 273223f877e946142a30d08a7629a94a
   m_configObjects: {}
